@@ -1,5 +1,7 @@
 HEY ALL 😊 ! Welcome To Drum-O-Drum 🥁.
 
+![drum](https://github.com/Monica112002/Drum-Kit/assets/113972657/c0fda1db-c887-4052-9337-db8d58caf9b6)
+
 I've Given The Link Below To See My Whole Website 👇.
 
 https://monica112002.github.io/Drum-Kit/
